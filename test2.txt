@@ -1,12 +1,1 @@
- Volume in drive C is Windows-SSD
- Volume Serial Number is F2AB-7291
-
- Directory of C:\Users\billa\OneDrive\Desktop\MyProject
-
-29-10-2022  16:39    <DIR>          .
-29-10-2022  15:30    <DIR>          ..
-29-10-2022  15:51                22 index.html
-29-10-2022  15:51                 8 test1.txt
-29-10-2022  16:39                 0 test2.txt
-               3 File(s)             30 bytes
-               2 Dir(s)  427,280,318,464 bytes free
+Change2
